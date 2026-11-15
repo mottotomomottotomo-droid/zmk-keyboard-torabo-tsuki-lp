@@ -63,5 +63,26 @@
 &trans  &trans   &trans   &trans        &kp DELETE    &kp TAB     &trans  &trans  &trans            &trans     &trans         &trans     &trans      &trans
             >;
         };
+
+        layer_4 {
+            bindings = <
+&trans  &trans   &trans   &trans        &trans        &trans                      &trans            &trans     &trans         &trans     &trans      &trans
+&trans  &trans   &trans   &trans        &trans        &trans                      &trans          &trans  &trans  &trans    &trans  &trans
+&trans  &trans   &trans   &trans        &trans        &trans     &trans  &trans  &trans          &trans   &trans   &trans  &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans  &trans    &trans
+&trans  &trans   &trans   &trans        &trans    &trans     &trans  &trans  &trans            &trans     &trans         &trans     &trans      &trans
+            >;
+        };
+
+        layer_4 {
+            bindings = <
+&trans  &trans   &trans   &trans        &trans        &trans                      &trans            &trans     &trans         &trans     &trans      &trans
+&trans  &trans   &trans   &trans        &trans        &trans                      &trans          &trans  &trans  &trans    &trans  &trans
+&trans  &trans   &trans   &trans        &trans        &trans     &trans  &trans  &trans          &trans   &trans   &trans  &trans     &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans      &trans  &trans    &trans
+&trans  &trans   &trans   &trans        &trans    &trans     &trans  &trans  &trans            &trans     &trans         &trans     &trans      &trans
+            >;
+        };
+
     };
 };
