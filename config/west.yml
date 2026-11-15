@@ -39,12 +39,6 @@ manifest:
     - name: zmk-module-runtime-input-processor
       remote: cormoran
       revision: e1860078f564b0ad49cf301a1f04e13edb9cba25
-      
-    # DYA Studioでコンボを実行時に編集するためのモジュール
-    - name: zmk-feature-runtime-combo
-      remote: cormoran
-      revision: main
-      import: true
 
   self:
     path: config
