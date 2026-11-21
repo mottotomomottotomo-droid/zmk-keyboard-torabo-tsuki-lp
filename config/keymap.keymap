@@ -20,9 +20,8 @@
         layers = <0>;
 };
         df_zenkaku_hankaku {
-        timeout-ms = <200>;
-        key-positions = <27 28>;
         bindings = <&kp LANGUAGE_5>;
+        key-positions = <27 28>;
         layers = <0>;
 };
     };
