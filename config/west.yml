@@ -6,8 +6,8 @@ manifest:
       url-base: https://github.com/sekigon-gonnoc
     - name: cormoran
       url-base: https://github.com/cormoran
-      - name: cormoran
-    url-base: https://github.com/cormoran
+    - name: cormoran
+      url-base: https://github.com/cormoran
   projects:
     - name: zmk
       remote: cormoran
