@@ -19,12 +19,12 @@
         key-positions = <0 1>;
         layers = <0>;
 };
-
-         df_zenkaku_hankaku {
-        timeout-ms = <50>;
+        df_zenkaku_hankaku {
+        timeout-ms = <200>;
         key-positions = <27 28>;
         bindings = <&kp LANGUAGE_5>;
-        };
+        layers = <0>;
+};
     };
 
     keymap {
